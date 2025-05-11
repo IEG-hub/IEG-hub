@@ -1,5 +1,5 @@
 Hi!
 
-Cyanobacteria lover!
+Young scientist researcher working on Cyanobacteria :green_heart:
 
-Interested in data science
+Interested in data science: R, python
